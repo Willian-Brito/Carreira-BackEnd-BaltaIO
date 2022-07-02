@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8TOVoq/IBUlxS6gARSuqiv/xuZTNR0YoHH6a0+pJH8mBrz2h/Sfb1XK0s9ME0XVAA66r/DBeJnVo/qpaZ9QDxQ==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/desktop/Fundamentos do C#/C#/StopWatch/StopWatch.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/bin/Debug/net6.0/ref/EditorHtml.dll
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/h1s0k4/Área de trabalho/App/Fundamentos do C#/C#/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
