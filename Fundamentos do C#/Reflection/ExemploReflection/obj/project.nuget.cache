@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1QjDPKi3ecq+unONZ7KjF8IzTX1zdhYmnMjQ7X/cQGLAnI6301FZYd14QDuFaxZQW4T+YDiWWiOyeTvSfBcSg==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/App/Microsoft/Reflection/ExemploReflection/ExemploReflection.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
