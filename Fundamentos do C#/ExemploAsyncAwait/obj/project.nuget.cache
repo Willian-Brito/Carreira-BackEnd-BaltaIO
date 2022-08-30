@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6R6CC6TVzjav1QQjSD7gZtMWqmOHjxx1Y5p8W1pBIZM/KHwtwyqujLSqlOCAsFg519Op3J4lgKCwR6KYUmbNSg==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/ExemploAsyncAwait.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/bin/Debug/net6.0/ExemploAsyncAwait
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/bin/Debug/net6.0/ExemploAsyncAwait.deps.json
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/bin/Debug/net6.0/ExemploAsyncAwait.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/bin/Debug/net6.0/ExemploAsyncAwait.dll
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/bin/Debug/net6.0/ref/ExemploAsyncAwait.dll
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/bin/Debug/net6.0/ExemploAsyncAwait.pdb
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.dll
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ref/ExemploAsyncAwait.dll
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.pdb
+/home/h1s0k4/Área de trabalho/Projetos/Carreira-BackEnd-BaltaIO/Fundamentos do C#/ExemploAsyncAwait/obj/Debug/net6.0/ExemploAsyncAwait.genruntimeconfig.cache
