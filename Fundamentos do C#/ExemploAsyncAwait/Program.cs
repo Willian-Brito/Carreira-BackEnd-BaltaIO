@@ -9,7 +9,7 @@ namespace Client
         // public static void Main(string[] args)
         {
             Console.WriteLine(""); 
-            Console.WriteLine("Tecle algo para iniciar \n");
+            Console.WriteLine("tecle algo para iniciar \n");
             Console.ReadKey();
 
             // Aguardar(5);
