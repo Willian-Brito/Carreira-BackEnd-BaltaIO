@@ -8,7 +8,7 @@ namespace Client
         static async Task Main(string[] args)
         // public static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine(""); 
             Console.WriteLine("Tecle algo para iniciar \n");
             Console.ReadKey();
 
