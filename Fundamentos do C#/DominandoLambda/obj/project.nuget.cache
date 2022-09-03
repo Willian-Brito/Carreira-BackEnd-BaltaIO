@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5B5VUoJjRPy9GlzefMDNG14zyq0UPy9XPJgELvEU8c+rDDwelcRmRGnfeROTLMo6Q90C8Ig+qxbDkRJRXsXxhA==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/DominandoLambda.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

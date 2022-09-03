@@ -1,0 +1,15 @@
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/bin/Debug/net6.0/DominandoLambda
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/bin/Debug/net6.0/DominandoLambda.deps.json
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/bin/Debug/net6.0/DominandoLambda.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/bin/Debug/net6.0/DominandoLambda.dll
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/bin/Debug/net6.0/ref/DominandoLambda.dll
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/bin/Debug/net6.0/DominandoLambda.pdb
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.dll
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/ref/DominandoLambda.dll
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.pdb
+/home/h1s0k4/Área de trabalho/App/dev/DominandoLambda/DominandoLambda/obj/Debug/net6.0/DominandoLambda.genruntimeconfig.cache
